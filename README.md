@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Simple script written in Batch for deleting the JavaCheck.jar from the Minecraft Launcher directory on x64 based systems.
+> Simple script written in Batch for deleting the JavaCheck.jar from the Minecraft Launcher directory and Microsoft Minecraft Launcher directory on x64 based systems.
 
 ## Usage
 

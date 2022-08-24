@@ -189,8 +189,8 @@ echo.
 echo This means the file is already deleted or does not exist in either directory.
 echo If you believe this is a mistake, please submit a issue on the GitHub page.
 echo.
-echo Press any key to exit.
 echo.
+echo Press any key to exit.
 echo.
 echo.
 echo.
